@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/shanzai-api/shanzai-api.iml" filepath="$PROJECT_DIR$/shanzai-api/shanzai-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanzai-common/shanzai-common.iml" filepath="$PROJECT_DIR$/shanzai-common/shanzai-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanzai-core/shanzai-core.iml" filepath="$PROJECT_DIR$/shanzai-core/shanzai-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanzai-getaway/shanzai-getaway.iml" filepath="$PROJECT_DIR$/shanzai-getaway/shanzai-getaway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanzai-web/shanzai-web.iml" filepath="$PROJECT_DIR$/shanzai-web/shanzai-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shanzaiupp.iml" filepath="$PROJECT_DIR$/shanzaiupp.iml" />
+    </modules>
+  </component>
+</project>

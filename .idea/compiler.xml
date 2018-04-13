@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shanzai-api" />
+        <module name="shanzai-common" />
+        <module name="shanzai-core" />
+        <module name="shanzai-getaway" />
+        <module name="shanzai-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="shanzai-api" target="1.5" />
+      <module name="shanzai-common" target="1.5" />
+      <module name="shanzai-core" target="1.5" />
+      <module name="shanzai-getaway" target="1.5" />
+      <module name="shanzai-web" target="1.5" />
+      <module name="shanzaiupp" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
